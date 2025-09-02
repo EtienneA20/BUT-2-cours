@@ -1,0 +1,8 @@
+Rappel premiere année :
+
+-> comment recuperer les données pour les utiliser ??
+-> créé une base de donées efficace ??
+-> exploité les données avec des requetes simple et avancé ??
+-> connection entre un language et une base de données avec JDBC ??
+
+
