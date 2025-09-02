@@ -15,3 +15,8 @@ entre les differentes tables avec un couple de plusieurs clé primaire ( chaque 
 
 Les contraintes : celle ci permettent de definir les liaisons ainssi que les dependances entre les tables 
 , nottement les clé etrangere.
+
+Restriction du CHECK : La contrainte check doit ˆetre d´eterministe
+c’est `a dire ´evaluable en utilisant uniquement les valeurs d’un tuple.
+Lorsqu’une contrainte ne peut pas ˆetre impl´ement´ee par une cl´e ou
+un check il faudra faire un trigger.

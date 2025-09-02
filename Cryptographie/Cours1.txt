@@ -1,0 +1,6 @@
+cours crypto cm 1
+
+-> comment chiffrer les données pour assuré leur securité
+
+chiffrement des lettres :
+avec un decalage de x lettre 
