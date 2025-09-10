@@ -1,0 +1,6 @@
+Cours 1:
+
+Enjeu du cours:
+comment utilisé une arboressance pour faire des opération performante ?
+comment utilisé des programmes avec de la récursivité ?
+

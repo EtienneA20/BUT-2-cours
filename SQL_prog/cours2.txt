@@ -1,0 +1,19 @@
+on utilise des trigger quand la mise en place de verification simple(inter-table) n'est pas suffisante
+la mise en place de vue créé une table que l'on pourra interoger meme après l'execution,
+mais elle doit aussi est supprimé dans le script ( comme les autre table )
+
+construction de requete avec des paramettre:
+
+prepare activiteAnne from 'select ......... where annee=?'
+supprier la requete (comme les vues)
+
+Language pl/sql:
+construction d'un bloc:
+le language n'est pas senssible a la casse ( UN=un)
+pour declarer une variable : attribut declare
+ex: declare res varchar(30)=
+affecter une variable: attribut set
+ex: set res = 'res'
+faire un eboucle avec reapeat:
+REPEAT
+UNTIL

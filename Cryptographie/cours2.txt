@@ -1,0 +1,2 @@
+chiffrement symetrique:
+une clé de chiffrage et une clé de dechiffrage

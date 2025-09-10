@@ -1,0 +1,22 @@
+CNIL: loi informatique et liberté du 6 janvier 1978
+=commission nationale informatique et liberté
+voté dans le but de proteger les données personnels
+
+AAI: autorité administrative independante 
+elle ne reçois aucune instruction du gouvernement et par une autre autorité, elle est cependant 
+financer par l'etat
+les decisions de la cnil peuvent etre contester par le conseil d'etat ( plus haute juridiction du droit public )
+
+RGPD: 2016 (entré en 2018)
+la cnil doit faire respecter la RGPD, elle peut donc controler les entreprises,
+elle a un pouvoir de sanction( du rappel a l'ordre, le limitation , des ammendes (très cher))
+elle a aussi le droit de rendre public les sanctions .
+
+données personnel : inforamtion qui va permettre d'etablir un lien entre une information et une personne phisique
+exemple: nom prenom adresse/mail  .....
+sous categorie, données semsible: données racial, religion,  politique, santé ,casier juridiciaire ....
+il y a traitement de données lors de tout utilisation de tout proceder automatisé ou manuel qui vise a constitué un 
+support organisé qui va etre utilisé dans le future.
+
+
+il faut l'accord de la cnil pour collecter des données sensible ou non.
