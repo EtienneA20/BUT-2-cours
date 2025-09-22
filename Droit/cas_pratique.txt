@@ -1,0 +1,48 @@
+td3: 
+1.contexte: ville de courou en guillane française, centre spatial 
+la commune n'a pas respecter les reglementations du cnil , designé un delegué ...
+
+probleme de droit:
+est ce que la responsabilité de l'autorité pulbic de 
+
+regle de droit :
+un autorité pubique est obligé de designé un dpo ( arcticle 37)
+
+application : mise en demeure(rappel a l'ordre)
+toujours pas de mise en conformité par la commune
+donc procedure de sanction ordinaire
+condanation (5000 €) avec injonction pour designer un dpo avec une astreinte (150 par jour)
+ne repond toujours pas 
+va proceder a la liquidation de l'astreinte(recupere 5k et 6900) 
+
+la cnil a le pouvoir de sanctionné ce type de manquement et peu mettre 
+une astreinte jusqu'a la designation du dpo
+
+
+2.contexte: l'entreprise uber a envoyer des donnée utilisateur vers un pays hors union europeenne sans 
+en informé les clients
+
+l'association de la ligue des droit de l'homme a saisi la cnil, qui va en informé la hollande 
+(siege social de uber) 
+c'est cette autorité qui va etablir la sanction 
+
+probleme de droit: 
+est ce que uber peut etre sanctionné pour non respect de l'article 44 du RGPD?
+une entreprise non française peut elle etre santionné en cas de violation du  RGPD sur des données
+d'utilisateur français?
+quel sont les obligations en cas de transfert hors UE?
+
+le rgpd s'applique a toute les entreprises europeenne (peu importe le siege social)
+les obligation figure sur l'article 44 ( garanti approprié en cas de transfert )
+
+
+4. yahoo 
+non respect des conditions de cookies
+le droit de retrait n'est pas respécter
+
+probleme de droit:
+quel sont les droits sur les données par rapport a l'utilisation des cookies 
+
+l'utilisateur a un droit de consentement et de retrait
+
+d'arprès le rgpd , une plateforme doit respecter les droit d'un utilisateur selon le rgpd

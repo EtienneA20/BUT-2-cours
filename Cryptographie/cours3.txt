@@ -1,0 +1,2 @@
+dechiffrement de clé public:
+code -> dechiffrement avec clé publique -> transfert -> dechiffrement avec clé privé
