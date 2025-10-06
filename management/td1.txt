@@ -1,0 +1,28 @@
+Système d’information : 
+ensemble de composantes techniques et organisationnelles interreliées qui recueillent de l’information, 
+la traitent, la stockent et la diffusent afin de supporter les opérations courantes, 
+la prise de décision, la coordination et le contrôle au sein de l’organisation.
+
+Technologie de l’information et de la communication (TIC) : 
+comprend le système et l’infrastructure technique qui permet de stocker et de transmettre les données des SI. 
+
+
+exo 1.
+sncf connect 
+wifi dans le train 
+capteur de panne
+lunette connecter
+
+exo 2:
+digitalisé les ventes pour tpoché un plus grand pulbic 
+utilisation du layerring (ex: vente derivé comme  ticket de metro)
+
+exo 3 :
+commercialiser une solution simple et intuitive pour les clients
+steve jobs et son associé
+
+exo 4
+amazon: plateforme de vente en ligne , processus d'affaire
+nespresso: apporté un coté luxe et simple , produit
+airbnb: liaison entre proprietaire et locataire via une plateforme sur 
+intuitive, processus d'affaire
