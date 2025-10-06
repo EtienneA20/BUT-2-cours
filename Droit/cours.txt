@@ -23,3 +23,22 @@ il faut l'accord de la cnil pour collecter des données sensible ou non.
 
 la preuve:
 la charge de la preuve vien du demandeur 
+
+td4:
+exo 3
+organisme public (souvent independant) qui doit ecadré les pratiques et surveillé les utilisateur
+elle peut donner des avertissement et des sanctions 
+AAI=autorité administrative independante
+la cnil est la plus competante en matiere de protection de données
+données à risque = données sensible : santé, origine ethnique ....
+
+
+td5:
+cas 1:
+probleme de droit , est ce qu l'adresse ip peut elle est utilisé pour prouver une contrefaçon 
+alors que cette données est protgé par la lois
+
+regle de droit :
+contrefaçon (code de la propriete intelectuel)
+RGPD( donnée personnel ) dispose que le traitement des donnée perso doivent respecter une certaine reglementations
+  
