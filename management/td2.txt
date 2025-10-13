@@ -1,0 +1,38 @@
+exo 1:
+1.
+L’innovation :
+Une innovation est la mise en oeuvre d’un produit (bien ou service) ou d’un procédé nouveau ou 
+sensiblement amélioré, d’une nouvelle méthode de commercialisation ou d’une nouvelle méthode 
+organisationnelle dans les pratiques de l’entreprise, l’organisation du lieu de travail ou les relations 
+extérieures.
+
+2.
+
+3.
+benchmarking:
+
+4.
+Innovation de produit :
+Introduction d’un bien ou service nouveau ou significativement amélioré en
+termes de caractéristiques, de performance, de conception ou d’usage.
+Exemple : un smartphone avec une nouvelle technologie d’écran pliable.
+
+Innovation de procédé :
+Mise en place d’un nouveau procédé de production ou de distribution,
+ou amélioration significative d’un procédé existant, afin d’augmenter l’efficacité,
+la qualité ou de réduire les coûts.
+Exemple : automatisation d’une chaîne de production grâce à des robots.
+
+Innovation de commercialisation :
+Adoption d’une nouvelle méthode de vente, de promotion,
+de distribution ou de tarification, différente des pratiques habituelles de l’entreprise.
+Exemple : lancement d’un produit uniquement via une plateforme en ligne ou par abonnement.
+
+Innovation d’organisation :
+Introduction d’une nouvelle méthode d’organisation du travail,
+de gestion ou de communication interne ou externe. Elle vise à améliorer les performances,
+la productivité ou la satisfaction des employés.
+Exemple : mise en place du télétravail ou d’une structure de travail en équipes autonomes.
+
+une inovation peut echoure si il n'y a pas de demande (ex: premier casque vr nintendo)
+
