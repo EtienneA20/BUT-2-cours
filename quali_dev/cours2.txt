@@ -1,2 +1,5 @@
 git avancé en equipe
 branch:
+refactoring
+
+séparer le code 
