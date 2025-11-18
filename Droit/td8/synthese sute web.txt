@@ -1,0 +1,52 @@
+Premier site: 
+https://www.vie-publique.fr/eclairage/18469-cybersecurite-quelles-reponses-face-aux-menaces-nouvelles
+résumé:
+Comment contré les nouvelles cyberAttaque?
+le cyberespace permet d’abolir les distances et les frontières nationales. 
+Par son caractère planétaire, la cybermenace bouleverse donc les repères traditionnels de la sécurité.
+Il y a donc  une confrontation entre les Etats et les géant numérique.
+Les motivations à l’origine de ces cyberattaques sont principalement de nature économique et politique.
+(vol d'argent ou manipulation)
+internet permettant de mener des offensives d’envergure avec des moyens limités.
+le plus grand danger restatant la prise de contrôle d’infrastructures stratégiques ( exemple: base militaire)
+POur luter contre les cyberAttaque, les Etats doivent collaboré entre eux mais aussi avec géant du net (google)
+car eux seul detienne les services d'information.
+
+Deuxieme site:
+https://dictionnaire.enap.ca/dictionnaire/docs/definitions/defintions_francais/cybersurveillance.pdf
+résumé:
+
+
+Troisieme site:
+https://www.e-surveillance.org/2019/11/02/la-cyber-surveillance-quest-ce-que-cest/
+résumé:
+
+
+quatrième site:
+https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/liste-des-ressources-mises-a-disposition
+résumé:
+
+
+cinquième site:
+https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/cybersecurite-les-cybermalveillances-les-plus-frequentes
+résumé:
+
+
+#sixieme site:
+#https://www.cnil.fr/fr/technologies/videosurveillance-videoprotection
+#résumé:
+
+
+plan ex:
+intro: definition des terme:
+1er: contexte (developpement des technologie...., nouvelle menaces)
+2eme: encadrement et recomendation des pays et des géant du net 
+conclusion: ouvrir vers des danger futur (IA)
+
+
+question de synthese:
+Vous rédigerez une synthèse sous la forme que vous souhaitez sur le sujet de la cyber surveillance 
+    • Définition et outils de la cyber surveillance
+    • Principes généraux
+    • Principes en milieu professionnel
+    • Recommandations 
