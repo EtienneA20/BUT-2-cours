@@ -1,0 +1,339 @@
+ Cybersécurité : quelles réponses face aux menaces nouvelles ?
+
+
+Devant la multiplication des attaques menées à partir d’internet, les États se sont progressivement dotés de nouveaux moyens technologiques et institutionnels pour se protéger contre cette nouvelle menace. C’est l’ensemble de ces moyens que l’on désigne par le terme de "cybersécurité".
+
+Sommaire
+
+    Qu’est-ce que la cybersécurité ?
+    Quelles réponses contre la cybermenace ?
+    Le cas français
+
+Le préfixe cyber (du grec kuberneïn, diriger) renvoie aux ordinateurs et à internet. La cybersécurité porte à la fois sur la cyberattaque et sur la cyberdéfense, c’est-à-dire l’usage de moyens informatiques pour mener ou riposter à une agression. On peut distinguer deux types d’attaques :
+
+    l’infiltration de réseaux de communications à des fins d’espionnage, d’altération de données ou de prise de contrôle ;
+    les campagnes d’influence sur internet, visant à orienter l’opinion publique.
+
+Qu’est-ce que la cybersécurité ?
+Le cyberespace, champ de bataille planétaire 
+
+Le "cyberespace" est l’espace de communication ouvert par l’interconnexion de tous les ordinateurs via internet. Il comprend des zones publiques (blog) et privées (messagerie, intranet d’une entreprise...). C’est l’espace sur lequel s’exerce la cybermenace. La particularité du cyberespace est d’abolir les distances et les frontières nationales. Par son caractère planétaire, la cybermenace bouleverse donc les repères traditionnels de la sécurité.
+Les acteurs de la cybersécurité 
+
+La cybersécurité implique des acteurs de statut et de taille très diverses. Parmi eux, on trouve :
+
+    les États et leurs forces armées ;
+    les acteurs économiques (de la PME à la multinationale).
+
+La particularité du cyberespace est de brouiller les critères traditionnels de la puissance. Ainsi, les géants du numérique ont souvent des capacités d’action comparables à celles des États. De même, un individu isolé peut à lui seul mettre en danger les systèmes informatiques d’une grande entreprise ou d’un État.
+Les intérêts en jeu 
+
+Les motivations à l’origine de ces cyberattaques sont principalement de nature économique et politique.
+
+Intérêts économiques :
+
+    vol d’argent à un particulier ou à une entreprise (via de faux e-mails incitant à fournir ses identifiants bancaires par exemple) ;
+    campagne de dénigrement d’une entreprise visant à capter sa clientèle ;
+    espionnage industriel, etc.
+
+Intérêts politiques :
+
+    campagne d’influence visant à orienter le résultat d’un vote ;
+    espionnage politique et militaire ;
+    prise de contrôle des outils de communication à distance, etc.
+
+Le cas du cyberterrorisme 
+
+Des groupes terroristes ont pu investir le cyberespace pour mener leur combat. Ils y ont vu un moyen de rééquilibrer le rapport de force à leur avantage, l'internet permettant de mener des offensives d’envergure avec des moyens limités. Ainsi, ils ont pu récolter des fonds, recruter des combattants ou encore pirater des sites internet à des fins de propagande grâce à l’outil numérique.
+
+Mais les autorités craignent aujourd’hui des attaques de plus grande envergure, comme la prise de contrôle d’infrastructures stratégiques. En février 2017, le Conseil de sécurité des Nations unies a adopté une résolution incitant les États à se préparer pour intervenir efficacement en cas d’attaque contre les infrastructures essentielles.
+Chronologie de la législation antiterroriste depuis les années 1980
+
+
+Quelles réponses contre la cybermenace ?
+La surveillance d’internet 
+
+Pour surveiller les cybercommunications et lutter contre la cybercriminalité, les États se sont dotés de dispositifs de surveillance dédiés à internet. Des organes inter-étatiques de surveillance existent, comme le réseau Échelon. Géré conjointement par les États-Unis, le Canada, l’Australie, le Royaume-Uni et la Nouvelle-Zélande, Échelon est le plus gros réseau de surveillance des télécommunications et cybercommunications au monde. Toutefois, de tels outils sont à double tranchant puisqu'ils peuvent servir à des fins d’espionnage (économique, militaire) ou de contrôle des populations.
+La collaboration avec les géants du Net
+
+Pour exercer leur autorité sur le cyberespace, les États doivent compter sur la coopération des géants du Net. En plus d’avoir des moyens techniques et financiers supérieurs à de nombreux États, ces derniers ont le pouvoir de dissimuler ou au contraire de rendre publiques les informations qui circulent via leurs services.
+Une difficile réponse internationale 
+
+Face au caractère international de la cybermenace, les États ont tôt pressenti la nécessité d’une réponse internationale commune. Mais celle-ci se heurte à la lenteur des procédures de coopération nationale, ainsi qu’à la réticence des États à partager certaines informations. Les carences de la coopération internationale en matière de cybersécurité sont ainsi apparues au grand jour avec les attentats terroristes qui ont frappé l’Europe ces dernières années. En réponse à ces attaques, les différents gouvernements se sont engagés à plus de coopération.
+Vers un droit international de la cybersécurité ? 
+
+Malgré les appels répétés de nombreux responsables politiques, il n’existe toujours pas de droit international contraignant en matière de cybersécurité. En effet, il existe des divergences de fond quant à la manière dont les États envisagent leur cybersécurité.
+L’exception européenne 
+
+En 2001, le Conseil de l’Europe est à l’origine du premier traité de coopération internationale sur la cybersécurité. Connu sous le nom de Convention de Budapest, ce traité a été signé par les États membres du Conseil de l’Europe, même si tous ne l’ont pas ratifié par la suite.
+
+Au sein d’Europol, l’Union européenne (UE) a inauguré, en 2013, le Centre européen de lutte contre la cybercriminalité, visant à faciliter la coopération entre États européens dans la lutte contre le cybercrime.
+
+En septembre 2017, la Commission européenne a proposé le "paquet cybersécurité" qui comprend un ensemble de mesures dont l’introduction d’une certification de cybersécurité à l’échelle de l’UE. Puis, en juin 2019, le règlement de l'UE sur la cybersécurité est entré en vigueur. Il a, à la fois, permis d'introduire un schéma de certification au niveau de l'UE tout en renforçant le nouveau mandat de l'Agence de l'UE pour la cybersécurité. Par ailleurs, en décembre 2020, la Commission européenne et le Service européen pour l'action extérieure ont présenté une nouvelle stratégie de cybersécurité de l'UE avec, pour objectif, de renforcer la résilience de l'Europe face aux cybermenaces. Ayant adopté, en mars 2021, les conclusions de cette stratégie de cybersécurité, le Conseil a rappelé également que la cybersécurité reste essentielle à l'édification d'une Europe  numérique. C'est aussi pourquoi l'UE étudie encore deux propositions législatives concernant les risques actuels et futurs (en ligne et hors ligne) par le biais notamment d'une directive destinée à mieux protéger les réseaux et les systèmes d'information.
+Souveraineté numérique : Gaïa-X, le futur cloud européen bientôt lancé ?
+
+Le cas français
+
+La France fait de la cybersécurité sa priorité depuis les années 2000. Le retour de la menace terroriste en 2015 l’a poussée à intensifier ses efforts en la matière. La Stratégie nationale pour la sécurité du numérique a fixé cinq objectifs :
+
+    garantir la souveraineté nationale ; 
+    répondre aux actes de cybermalveillance ; 
+    informer le grand public ; 
+    faire de la sécurité numérique un avantage concurrentiel pour les entreprises ; 
+    renforcer la voix de la France à l’international.
+
+La surveillance de l'internet
+
+La lutte contre la cybercriminalité passe d’abord par la surveillance d’internet.
+Le décret n° 2015-125 permet le blocage administratif des sites pédopornographiques et faisant l’apologie du terrorisme. En 2015 est votée la loi "Renseignement", qui renforce les moyens d’action des services de renseignement dans la sphère numérique. À la suite des attentats de Paris en 2015, le gouvernement a également lancé l’opération "Stop Djihadisme" afin de contrecarrer les campagnes de propagande jihadiste sur les réseaux sociaux.
+La cybersécurité dans le droit français
+
+En France, la cybercriminalité est prise en compte dans le droit depuis la loi informatique et libertés (1978) qui réglemente la liberté de ficher les personnes humaines. Aujourd’hui, les pratiques numériques sont encadrées par un dispositif juridique prévoyant des peines allant jusqu’à cinq ans d’emprisonnement et 75 000 euros d’amende pour les attaques informatiques. La loi prévoit en outre une aggravation des peines dans le cas de cyberattaques visant directement l’État.
+Traquer les cybercriminels
+
+La police et la gendarmerie disposent de divers organes dédiés à la répression de la cybercriminalité. Parmi eux :
+
+    l’Office central de lutte contre la criminalité liée aux technologies de l’information et de la communication (OCLCTIC) au sein de la Police judiciaire ;
+    le Centre de lutte contre les criminalités numériques (C3N) au sein de la Gendarmerie nationale ;
+    la Brigade d’enquête sur les fraudes liées aux technologies de l’information (BEFTI) au sein de la préfecture de police de Paris.
+
+Défendre les usagers
+
+L'Agence nationale de la sécurité des systèmes d’information (Anssi) a été créée en 2009 pour défendre et protéger les systèmes d’information et les usagers du numérique contre les cyberattaques. Ses missions sont les suivantes :
+
+    surveiller les réseaux afin de détecter les attaques et permettre de réagir au plus vite ;
+    développer des produits et services de cybersécurité à destination des usagers ;
+    apporter son expertise et son assistance aux administrations et aux entreprises ;
+    sensibiliser le public sur les cybermenaces.
+
+Le Gouvernement a lancé en 2017 un dispositif national d’assistance aux victimes d’actes de cybermalveillance. Incubé par l'Anssi et copiloté avec le ministère de l'intérieur, la plateforme cybermalveillance.gouv.fr permet de mettre en relation des victimes de cyberattaques - particuliers, entreprises ou collectivités territoriales - et des prestataires de services susceptibles de les aider dans leurs démarches. Refondue début 2020, la plateforme a vu une hausse de +155% de sa fréquentation.
+ 
+Les cybermalveillances en forte hausse en 2021
+
+En bref
+
+30 mars 2022
+
+Pandémie de Covid-19 et cybersécurité
+
+Lors des premières semaines du confinement du printemps 2020, les visites du site cybermalveillance.gouv.fr ont augmenté de près de 600%. Les recherches d'assistance à propos d'attaques par hameçonnage liées à la crise sanitaire ont crû de 400%. En entraînant une augmentation des usages numériques, l'épidémie de Covid-19 a aussi entraîné une augmentation de la cybercriminalité.
+
+Par ailleurs, le développement du e-commerce depuis quelques années et le recours massif au télétravail durant la crise sanitaire (8 millions de salariés au printemps 2020) ont renforcé les risques de cyberattaques contre les entreprises. Les services informatiques doivent désormais mettre en place des stratégies zero trust : aucun utilisateur sur un réseau n'est totalement digne de confiance.
+
+Le site de la CNIL met à la disposition des usagers des outils et des guides afin de renforcer leur cybersécurité.
+
+La loi du 3 mars 2022 modifie le code de la consommation pour imposer des obligations nouvelles en matière de cybersécurité aux grandes plateformes numériques. Ces opérateurs devront informer les internautes par un "cyberscore" de la sécurité de leur site ainsi que de la sécurisation et de la localisation des données qu'ils hébergent.
+Cybersécurité : des signalements plus nombreux en 2020
+
+En bref
+
+26 avril 2021
+La cyberdéfense 
+
+La Revue stratégique de défense et de sécurité nationale de 2017 identifie un renforcement des menaces dans le cyberespace où "certaines attaques, en raison de leur ampleur et de leur gravité, pourraient relever de la qualification d’agression armée". L'actualisation stratégique de 2021 ajoute que le "cyber et l’espace constituent désormais des champs assumés de rivalité stratégique permanente, voire de conflictualité" et sont "de nouveaux domaines d'expression de la puissance".
+
+Créé en 2017 et dépendant du ministère des armées, le Commandement de la cyberdéfense (Comcyber) a la responsabilité de la cyberdéfense militaire qui recouvre l’ensemble des actions défensives et offensives conduites dans le cyberespace. Le Comcyber est constitué de 3 400 cyber-combattants. La loi de programmation militaire (LPM) 2019-2025, qui consacre 1,6 milliard d'euros à la cyberdéfense, portera le nombre de ces combattants à 4 000 d'ici à 2025.
+
+Le 18 janvier 2018, la ministre des armées a présenté la doctrine de lutte informatique offensive (LIO) qui complète la lutte informatique défensive (LID). La ministre a ainsi officialisé le volet offensif de la doctrine cybermilitaire française. La LIO et la LID renforcent la posture permanente de cyberdéfense (PPC) créée par la LPM 2019-2025. La PCC permet de protéger en permanence tous les réseaux militaires et de réagir à toute attaque contre les intérêts de la défense de la France.
+
+Livre blanc de la cyberdéfense, la Revue stratégique de cyberdéfense a été publiée en février 2018 par le Secrétariat général de la défense nationale (SGDN).
+
+La nouveauté, selon la ministre des armées, c'est "de considérer le cyberespace comme un champ de bataille à part entière, de reconnaître que le cyber [est] une arme, avec un potentiel qui peut être bien plus nuisible et dangereux qu'un missile" (discours sur la cybersécurité et la cyberdéfense, Lille, 8 septembre 2021).
+
+La cybersurveillance est un mécanisme de surveillance de personnes, d'objets ou de processus
+qui repose sur les nouvelles technologies et qui s'exerce à partir et sur des réseaux d'information,
+tel Internet. Elle vise à faciliter la surveillance, compte tenu de la quantité, de la rapidité ou de la
+complexité de l'information à traiter. Tout comme la surveillance, elle renvoie à des activités de
+collecte et d'analyse d'informations poursuivant diverses finalités, notamment prévenir certains
+risques, orienter les conduites humaines et trouver des responsables en cas de problème (Commis-
+sion de l'éthique de la science et de la technologie, 2008; Cahen, s.d.; Boudreau, 2006).
+Le terme cybersurveillance fait partie d'une catégorie de mots récents qui se sont insérés dans le
+vocabulaire depuis l'avènement de la cybernétique en 1948, et de façon plus marquée depuis l'es-
+sor important dans les années 1970 des réseaux numériques de communication. Plusieurs mots ont
+vu le jour surtout à la faveur de l'accessibilité d'Internet au milieu des années 1990. Le préfixe
+cyber- est ainsi juxtaposé à des activités qui ne sont pas nouvelles, mais qui se réalisent dans l'espace
+virtuel à l'aide de l'informatique et des télécommunications.
+La cybersurveillance s'est installée dans notre quotidien au gré de l'évolution, du raffinement et
+de l'ubiquité des technologies de l'information afin de mieux gérer d'innombrables risques et d'as-
+surer la sécurité des personnes, des lieux, des informations, des infrastructures et des processus
+dans divers milieux (Commission nationale de l'informatique et des libertés, 2004; Leman-Langlois
+et Ouimet, 2006; Bajc, 2007). La cybersurveillance s'est intensifiée depuis les attentats terroristes
+internationaux, tels que les attaques perpétrées aux États-Unis le 11 septembre 2001 ou dans le
+métro de Londres en juillet 2005. Le besoin de mettre en place des mesures visant à minimiser les
+risques qui menacent la sécurité d'un État et de sa population et les craintes qu'ils suscitent s'est
+alors imposé. Sous un autre angle, la cybersurveillance est aussi de plus en plus instaurée par des
+gouvernements en tant que mécanisme qui aide à réaliser certaines tâches administratives relatives
+à la gestion de la santé, du bien-être, de l'éducation et de la sécurité de la population (Commission
+de l'éthique de la science et de la technologie, 2008). Les entreprises soucieuses de protéger certai-
+nes informations, de surveiller le comportement de leurs employés ou de leur clientèle y ont égale-
+ment recours. Des organisations de la société civile et des citoyens peuvent aussi se servir des
+nouvelles technologies de l'information afin de surveiller les faits et gestes des autorités ou des
+entreprises pour ensuite dénoncer des conduites jugées inacceptables (Häyhtiö et Rinne, 2009;
+Leman-Langlois et Ouimet, 2006; Boudreau, 2006). Enfin, dans la poursuite de leurs objectifs, les
+délinquants et les groupes criminels sont aussi susceptibles de recourir à la cybersurveillance.
+La cybersurveillance s'exécute par la collecte d'informations au moyen d'outils technologiques
+et de logiciels de surveillance. Ces informations, souvent nombreuses (événements, messages, dé-
+placements, accès, etc.), sont enregistrées et passent par un processus d'analyse informatisé dont le
+résultat consiste en une information bonifiée. C'est ce produit filtré qui facilite le travail du surveil-
+lant et qui peut être utilisé dans les décisions visant à orienter les conduites. Suivre le comporte-
+ment d'individus en temps réel sur une période précise et à travers le monde est désormais
+possible (Bajc, 2007). L'interception et l'analyse des messages électroniques est un exemple cou-
+rant de cybersurveillance (Cahen, s.d.; Commission nationale de l'informatique et des libertés,
+2004). D'envergure internationale, ECHELON, un projet d'espionnage électronique lancé par plu-
+sieurs pays, conçu et coordonné par la National Security Agency des États-Unis et révélé au grand
+jour en 1988, permet aux gouvernements participants d'intercepter les télécommunications, numé-
+riques ou non, transmises sur les différents réseaux mondiaux. De puissants ordinateurs analysent
+une quantité phénoménale d'informations captées par différents systèmes afin d'extraire les mes-
+sages pouvant révéler des renseignements stratégiques, représentant notamment un risque pour la
+sécurité nationale. Les exemples de cybersurveillance faite par les États sont nombreux, notamment
+en ce qui concerne la lutte contre le vol d'identité, le piratage, le terrorisme, les fraudes économi-
+ques ou la pédophilie. La cybersurveillance contribue à la surveillance de masse.
+Selon l'objectif poursuivi, la complexité de la cybersurveillance diffère. La surveillance de masse
+fait généralement partie des exemples plus évolués. Ainsi, plus la quantité d'informations à collec-
+ter et à traiter est abondante et plus les variables à analyser sont stratégiques, plus le système de-
+vra être sophistiqué.
+La cybersurveillance peut être utilisée à différentes fins : prévention, détection des risques de
+crimes ou de délits divers, enquête à la suite d'un événement. « La cybersurveillance peut être utile,
+tant pour des raisons de sécurité et de bonne gestion d'un système informatique que pour des rai-
+sons de vérification de la bonne transmission de correspondances » (Cahen, s.d.). En France, le vo-
+cable cybersurveillance est plus fréquemment associé à la surveillance de l'utilisation des
+technologies au travail à des fins privées.
+Bien que les avancées technologiques permettent des types de surveillance jadis insoupçonnés,
+la cybersurveillance soulève des interrogations et des craintes. De plus en plus omniprésente et
+invisible, et souvent réalisée à distance à l'insu des individus, la cybersurveillance suscite la crainte
+d'un contrôle social serré par les autorités qui en viendraient à réprimer toute forme de liberté
+individuelle. Au chapitre des inquiétudes se trouve le risque de glissement de finalités pour lesquelles
+les informations ont été recueillies au départ, ce qui pourrait porter atteinte à la vie privée des per-
+sonnes et à leur intégrité (Boudreau, 2010). À ce sujet, les risques de profilage et de discrimination
+raciale nourrissent de vives appréhensions (Biseul, 2004). Apparaissent également des questions
+relatives à l'équilibre entre la quête de sécurité et les droits des individus. Jusqu'où sera-t-il permis
+de recueillir des renseignements et de les recouper avec d'autres informations personnelles sous
+l'impératif de la sécurité d'un État sans porter atteinte à la vie privée? La technologie permet dé-
+sormais la surveillance de masse, de telle sorte que ce ne sont pas uniquement les suspects qui sont
+dans la mire des surveillants; toutes les personnes qui se trouvent dans un processus de surveillan-
+ce deviennent suspectes (Commission nationale de l'informatique et des libertés, 2004; Commis-
+sion de l'éthique de la science et de la technologie, 2008). La surveillance des passagers aériens en
+est un exemple. Dans le contexte de la mondialisation, une attention particulière devra être portée
+aux aspects juridique et éthique du partage et de l'utilisation des renseignements recueillis sous un
+système législatif donné
+
+
+La cyber-surveillance, qu’est-ce que c’est ?
+
+La cybersurveillance implique l’utilisation d’appareils connectés pour surveiller des lieux ou des personnes. La technologie connectée peut être utilisée pour votre propre commodité, mais un agresseur pourrait utiliser la même technologie à mauvais escient pour conserver le pouvoir et le contrôle sur vous.
+Qu’est-ce que la cybersurveillance ?
+
+La cybersurveillance est l’utilisation par une personne de dispositifs « intelligents » ou « connectés » qui communiquent via un réseau de données pour surveiller des personnes ou des lieux. Ce type de technologie connectée a également été appelé « Internet des objets » (IoT). Les dispositifs utilisés pour la cybersurveillance sont généralement connectés entre eux et à un dispositif ou une application qui peut les contrôler. Par exemple, vous pouvez avoir un téléviseur connecté à Internet que vous pouvez contrôler à partir d’une application de votre téléphone cellulaire ou de votre tablette ou des appareils comme des machines à café peuvent être connectés à un réseau et contrôlés à distance avec un autre appareil (comme votre ordinateur ou téléphone). Les appareils peuvent être connectés via un réseau domestique, Internet et WiFi, Bluetooth ou tout autre moyen. Ces appareils et systèmes offrent des outils que vous pouvez utiliser pour accroître votre propre sécurité et votre confort.
+
+Cependant, la cybersurveillance permet également aux dispositifs connectés de jouer un rôle dans la manière dont les personnes et les lieux sont surveillés. Un agresseur pourrait utiliser son ordinateur (ou tout autre appareil connecté à Internet, comme un téléphone ou une tablette) pour pirater vos appareils. Par la suite, un agresseur peut utiliser ces dispositifs et les systèmes qui les contrôlent à mauvais escient pour vous surveiller, vous harceler, vous menacer ou vous faire du mal.
+
+La cybersurveillance peut être utilisée de diverses façons utiles, et vous pouvez choisir d’utiliser la cybersurveillance pour surveiller et contrôler vos propres biens ou ajouter certaines commodités à votre vie. Voici quelques exemples d’appareils connectés qui vous permettent d’utiliser la cybersurveillance :
+
+    thermostats ;
+    des prises électriques intelligentes (avec des lumières ou d’autres dispositifs branchés à ces prises) ;
+    systèmes de divertissement (stéréo, TV, etc.) ;
+    des caméras de vidéo surveillance pour la sécurité et des détecteurs de mouvement ;
+    détecteurs de fumée ;
+    sonnettes vidéo ;
+    serrures intelligentes ;
+    appareils électroménagers (réfrigérateur, aspirateur, etc.) ;
+    des caméras de nounou ;
+    les mangeoires, les appareils photo, les jouets et les traqueurs pour animaux de compagnie (systèmes GPS qui vous permettent de savoir où se trouvent vos animaux de compagnie) ;
+    jouets pour enfants et trackers.
+
+Ces kits de video surveillance peuvent être connectés à Internet ou à un réseau de données pour que vous puissiez les contrôler à distance par le biais d’applications ou ils peuvent être programmés pour s’allumer et s’éteindre à des heures prédéfinies. D’autres appareils peuvent être à commande vocale et effectuer certaines activités sur commande :
+
+    les appareils de commande à distance de votre maison (comme le téléviseur, la climatisation, le système de chauffage ou le système d’alarme) ;
+    installer une caméra video surveillance à votre domicile que vous pouvez surveiller à distance (c.-à-d. utiliser Internet pour observer votre propre propriété) ;
+    utiliser des dispositifs qui vous permettent de contrôler l’appareil GPS, le mécanisme de verrouillage, le système de sonorisation ou de démarrer votre voiture à distance ; ou
+    utilisez des montres de fitness pour vous connecter à un réseau afin de surveiller vos propres mouvements et vos objectifs.
+
+Comment un agresseur peut-il faire un mauvais usage de la cybersurveillance ?
+
+Un agresseur pourrait utiliser à mauvais escient les appareils connectés pour vous surveiller, vous harceler, vous isoler ou vous nuire d’une autre manière. Les appareils connectés et la technologie de cybersurveillance peuvent suivre qui se trouve dans votre maison et ce qu’ils font. Les dispositifs qui vous permettent d’utiliser la cybersurveillance sont généralement connectés à Internet ou à un autre réseau de données, de sorte qu’un agresseur pourrait pirater ces systèmes (avec un ordinateur ou une autre technologie connectée au réseau) et contrôler vos dispositifs ou informations. Un agresseur qui utilise votre technologie pour suivre vos actions peut le faire secrètement ou, de façon plus évidente, pour contrôler votre comportement. Un agresseur peut utiliser la technologie de cybersurveillance pour :
+
+    prendre des photos ou des vidéos de vous ;
+    tenir des registres de vos activités (qui peuvent être obtenus à partir d’un appareil de suivi de la condition physique ou du GPS de votre voiture et indiquer si vous avez quitté la maison pour demander la protection du tribunal, par exemple) ;
+    vous espionner ; et accéder à votre messagerie ou à d’autres comptes liés aux appareils connectés.
+    Un agresseur pourrait également faire un mauvais usage de la technologie qui vous permet de contrôler votre maison d’une manière qui vous cause de la détresse. L’agresseur pourrait vous harceler en allumant ou éteignant les lumières et les appareils ménagers dans votre maison, en réglant la température à des niveaux inconfortables, en jouant de la musique non désirée ou en réglant le volume, en déclenchant une invasion de domicile et des détecteurs de fumée et en verrouillant ou déverrouillant les portes. Un tel comportement pourrait vous mettre mal à l’aise, vous faire peur, vous faire perdre le contrôle de votre environnement ou vous faire sentir confus ou instable.
+
+De plus, un agresseur pourrait utiliser à mauvais escient une technologie qui contrôle votre maison pour vous isoler des autres en menaçant les visiteurs et en bloquant l’accès physique. Par exemple, un agresseur pourrait contrôler à distance les serrures intelligentes de votre maison, ce qui limiterait votre capacité de quitter la maison ou d’y retourner. Une sonnette vidéo pourrait être utilisée non seulement pour surveiller qui vient à la porte, mais aussi pour les harceler à distance ou, en combinaison avec une serrure intelligente, les empêcher d’entrer dans la maison. Vous pouvez également visionner une courte vidéo sur ce sujet.
+
+Enfin, les agresseurs pourraient faire des choses encore plus dangereuses lorsqu’une voiture est connectée et peut être contrôlée par Internet. Par exemple, de nombreuses voitures plus récentes sont équipées de petits ordinateurs qui permettent à quelqu’un de contrôler à distance un grand nombre des caractéristiques de la voiture, comme les sièges chauffants, le freinage d’urgence ou la technologie de direction à distance. Un agresseur pourrait pirater le système de la voiture et accéder à cet ordinateur pour contrôler la vitesse ou les freins de votre voiture, vous mettant ainsi en grand danger.
+
+Remarque : Sans accès à vos mots de passe, l’acquisition du contrôle de vos appareils connectés peut nécessiter un niveau de connaissance plus avancé de la technologie que la plupart des gens. Cependant, d’autres renseignements pourraient être plus faciles d’accès pour un agresseur qui n’est pas un expert en technologie. Lorsque des appareils sont connectés par l’intermédiaire d’un réseau de données ou d’Internet, par exemple, un agresseur peut être en mesure de se connecter (ou de pirater) ce système pour obtenir des informations sur la façon dont ces appareils ont été utilisés, par exemple lorsque vous allez et venez de chez vous ou lorsque vous conduisez votre voiture.
+Quelles lois me protègent de la cybersurveillance ?
+
+Bon nombre des lois qui s’appliquent à la surveillance électronique pourraient également s’appliquer aux actes de cybersurveillance, selon la façon dont l’agresseur utilise les dispositifs connectés pour abuser de vous et selon le langage exact des lois dans votre État. Par exemple, si l’agresseur accède à des dispositifs sur votre réseau pour écouter vos conversations, il se peut que des lois sur l’écoute clandestine s’appliquent. De plus, un agresseur qui vous surveille ou vous enregistre à l’aide de vos appareils peut violer les lois sur la protection de la vie privée ou le voyeurisme dans votre État.
+
+D’autres lois peuvent également s’appliquer à une situation où un abuseur n’est pas autorisé à accéder à vos appareils connectés, telles que certaines lois sur la criminalité informatique. De plus, si l’agresseur accède à vos appareils pour adopter un comportement qui vous cause de la détresse ou de la peur, les lois contre le harcèlement ou le harcèlement criminel pourraient vous protéger contre le comportement de l’agresseur.
+Que puis-je faire pour m’assurer d’être protégé si j’utilise des appareils connectés ?
+
+Afin d’essayer d’utiliser les appareils connectés et la cybersurveillance en toute sécurité, il peut être utile de savoir exactement comment vos appareils se connectent les uns aux autres, quelles informations sont disponibles à distance et quelles caractéristiques de sécurité et de confidentialité existent pour votre technologie. Par exemple, si un appareil commence à fonctionner d’une manière que vous savez que vous ne contrôlez pas, vous pouvez déconnecter cet appareil et/ou le retirer du réseau pour arrêter l’activité. Vous pouvez en apprendre davantage sur la façon de débrancher ou de retirer l’appareil en lisant le manuel de l’appareil ou en parlant à un représentant du service à la clientèle.
+
+Si vous soupçonnez qu’un appareil est mal utilisé, vous pouvez commencer à documenter les incidents. Un registre des abus technologiques est un moyen de documenter chaque incident. Ces registres peuvent être utiles pour révéler les tendances, déterminer les prochaines étapes et, si vous décidez de faire appel au système judiciaire, ils pourraient être utiles pour monter un dossier.
+
+Vous pouvez également envisager de planifier la sécurité avec un défenseur de la violence familiale qui a une certaine compréhension de la violence technologique. Si vous travaillez déjà avec un avocat qui n’a pas de connaissances spécialisées en matière de mauvaise utilisation de la technologie, l’avocat peut obtenir de l’aide de notre projet de filet de sécurité pour s’assurer que vous êtes en sécurité lorsque vous utilisez votre technologie.
+
+Cybersécurité : quelles sont les 10 cybermalveillances les plus fréquentes ?
+Parmi les actes de cybermalveillance les plus fréquemment rencontrés par les différents publics : l’hameçonnage ou phishing en anglais, le piratage de compte en ligne et les rançongiciels ou ransomwares en anglais. 
+
+Avec 2,5 millions de visiteurs en 2021, Cybermalveillance.gouv.fr a enregistré sur sa plateforme une fréquentation record principalement centrée sur l’assistance, qui traduit un besoin en cybersécurité grandissant des populations face à la recrudescence des activités cybercriminelles. Parmi les actes de cybermalveillance les plus fréquemment rencontrés par les différents publics : l’hameçonnage ou phishing en anglais, le piratage de compte en ligne et les rançongiciels ou ransomwares en anglais. 
+
+    Qu’est-ce qu’une cybermalveillance ? 
+    Cybersécurité : top 10 des cybermalveillances les plus fréquentes
+
+Qu’est-ce qu’une cybermalveillance ? 
+
+Cybermalveillance.gouv.fr est le dispositif national d’assistance aux victimes d’actes de cybermalveillance, d’observation de la menace et de prévention et sensibilisation des publics aux risques cyber. 
+
+Pour Cybermalveillance.gouv.fr, une cybermalveillance représente toute infraction commise par voie numérique. Il peut s’agir de phishing ou hameçonnage, de piratage d’un compte ou d’un équipement, d’usurpation d’identité, d’attaque par rançongiciel, etc. 
+
+À ce jour, Cybermalveillance.gouv.fr référence 48 formes de cybermalveillances traitées par son outil d’assistance en ligne, qui permet aux victimes, en répondant à quelques questions, d’obtenir un diagnostic du problème rencontré et de disposer des conseils de cybersécurité permettant d’y faire face. 
+
+L’analyse de l’utilisation de cet outil permet de dégager les principales tendances de la cybermalveillance décrites ci-après. 
+Cybersécurité : top 10 des cybermalveillances les plus fréquentes 
+1. Hameçonnage ou phishing
+Autorisez le dépôt de cookies pour accéder à cette fonctionnalité.
+
+L’hameçonnage ou phishing constitue la principale cybermalveillance rencontrée, tous publics confondus. Cette technique d’attaque consiste à envoyer un courriel ou SMS à la victime en usurpant l’identité d’un tiers (une entreprise, une administration, etc.), pour l’inciter à réaliser une action comme communiquer des informations personnelles, professionnelles ou bancaires, ou encore ouvrir un lien ou une pièce jointe infectée par un virus. Assez simple, peu onéreuse et très rentable, cette technique d’attaque est devenue le principal vecteur à l’origine de tout un panel de cybermalveillances : piratage de compte, débits bancaires frauduleux, usurpation d’identité… Parmi les phishing les plus fréquents on peut citer : les faux messages d’infraction pédopornographique, les arnaques au faux support technique, les sollicitations concernant le compte personnel formation (CPF) ou encore les messages d’escroquerie à la livraison de colis.
+
+À noter la tendance forte du développement de l’hameçonnage par SMS, ou smishing en anglais, les cybercriminels profitant de la plus grande difficulté à identifier un SMS frauduleux sur un téléphone.
+
+Les 10 principales formes d’hameçonnage ont représenté en 2021 à elles seules près de 80% des recherches d’assistance sur la plateforme Cybermalveillance.gouv.fr. C’est pourquoi, le dispositif y a consacré un dossier complet à retrouver ici.
+2. Piratage de compte en ligne
+
+Autorisez le dépôt de cookies pour accéder à cette fonctionnalité.
+
+Le piratage de compte en ligne représente la seconde menace la plus rencontrée, tant par les particuliers que les professionnels, avec une augmentation de +139 % par rapport à l’année 2020. Si le piratage des comptes bancaires en ligne et des comptes de réseaux sociaux apparaît comme une cible de choix pour les cybercriminels, l’intérêt des attaquants s’oriente davantage vers les comptes de messagerie. Contenant une grande quantité d’informations, les messageries représentent une mine d’or pour les cybercriminels qui ont bien compris qu’en prenant le contrôle de la messagerie d’une victime, ils pouvaient prendre le contrôle de presque toute sa vie numérique. D’autant plus que dans le domaine de la cybersécurité, la messagerie est généralement le point central permettant la réinitialisation du mot de passe de tous les autres comptes en ligne de la victime. Les principales causes identifiées de ces piratages sont l’utilisation de mots de passe faciles à deviner, la réutilisation du même mot de passe sur de multiples comptes dont l’un a pu déjà être piraté, l’hameçonnage et l’absence d’authentification renforcée. 
+3. Arnaque au faux support technique 
+
+
+Autorisez le dépôt de cookies pour accéder à cette fonctionnalité.
+
+L’arnaque au faux support technique (ou fraude à la réparation informatique) arrive en troisième position. Cette forme de cybermalveillance consiste principalement à bloquer l’ordinateur de la victime par l’apparition d’un message évoquant un incident de cybersécurité pour l’effrayer afin de l’inciter à rappeler un prétendu support technique officiel et lui faire payer un pseudo-dépannage. Cette cybermenace cible essentiellement les seniors les moins aguerris au numérique ou les professionnels qui ne disposent pas de supports informatiques de proximité et qui sont donc plus facilement susceptibles de tomber dans ce piège.
+L’arnaque au faux support technique voit ses modes opératoires évoluer sans cesse, aussi bien dans la diversification des méthodes d’approche que dans les conséquences pour les victimes : approches téléphoniques, notifications de réseaux sociaux contenant des liens malveillants qui déclenchent l’apparition du message d’alerte frauduleux, etc. Consécutivement à cette cybermalveillance, de nombreux cas de virements bancaires frauduleux ou de piratage de comptes en ligne des victimes d’arnaque au faux support technique sont, par ailleurs, rapportés. En effet, lors de la prise en main de l’appareil de la victime, le faux réparateur dérobe de plus en plus fréquemment des identifiants et mots de passe dont il fera par la suite un usage frauduleux.
+4. Cyberharcèlement 
+
+En quatrième position du classement, les faits de cyberharcèlement sont en forte augmentation en 2021 par rapport à l’année 2020 (+33%), principalement chez les particuliers. Le cyberharcèlement désigne le fait de tenir en ligne de manière répétée et intentionnelle, publiquement ou dans des cercles restreints, des propos ou des comportements ayant pour but ou conséquence une dégradation des conditions de vie de la personne qui en est victime. Le cyberharcèlement peut être le fait d’une seule personne ou d’un groupe de personnes. Pouvant se manifester sous différentes formes – intimidations, insultes, menaces, rumeurs, publication de photos ou vidéos compromettantes pour sa cybersécurité  –  les conséquences d’un cyberharcèlement peuvent être dramatiques pour les victimes : dépression, décrochage scolaire ou professionnel, troubles psychologiques ou émotionnels, violence, suicide, etc. 
+5. Violation de données personnelles
+
+La violation de données personnelles est la cinquième cybermalveillance la plus fréquemment rencontrée, l’année 2021 ayant été marquée par de nombreux incidents de cybersécurité qui ont conduit à des fuites de données personnelles, et notamment de données médicales. Pour rappel, une donnée personnelle est une information permettant d’identifier directement ou indirectement une personne. Il peut s’agir d’un nom, d’une photo, d’une adresse postale ou de messagerie (mail), d’un numéro de téléphone, d’une adresse IP. La violation de données personnelles désigne ainsi la destruction, la perte, la modification ou la diffusion non autorisée de ces données. Qu’elle soit d’origine accidentelle ou malveillante, une violation de données personnelles peut avoir des conséquences de cybersécurité importantes pour le particulier ou l’organisation qui en est victime : atteinte à la réputation et/ou à la vie privée, préjudice financier, tentative d’usurpation d’identité, tentative d’hameçonnage, etc. 
+6. Rançongiciels ou ransomwares
+
+L’attaque par rançongiciel ou ransomware en anglais, qui désigne une cyberattaque qui bloque l’accès à l’appareil ou à des fichiers en les chiffrant et qui réclame à la victime le paiement d’une rançon pour en obtenir de nouveau l’accès, demeure une des principales menaces à la cybersécurité traitées par la plateforme, avec toutefois de fortes variations en fonction des publics. Les chiffres démontrent en effet un intérêt décroissant des cybercriminels pour les particuliers, jugés sans doute moins solvables, tandis que les rançongiciels constituent la première cybermenace chez les professionnels, avec une hausse de plus de 95 % en 2021. Si les cybercriminels n’ont pas abandonné le ciblage des collectivités, les statistiques prouvent qu’ils visent en priorité les entreprises, sans doute parce qu’elles seraient plus enclines à payer les rançons demandées au regard des impacts économiques et réputationnels de ce type de cyberattaque pour leur activité. Cette tendance devrait malheureusement continuer à s’accentuer. 
+7. Spams
+
+Le spam électronique ou spam téléphonique désigne une communication non sollicitée à des fins publicitaires, commerciales ou malveillantes. Il peut prendre différentes formes : SMS, MMS, email, messagerie instantanée, réseaux sociaux ou appel téléphonique. Dans bien des cas, il s’agit de prospection commerciale mais le spam peut également revêtir un caractère malveillant – incitation à rappeler un numéro surtaxé, envoyer un SMS à un numéro payant… – ou porter atteinte à la cybersécurité de la victime : tentatives d’hameçonnage ou phishing pour dérober des données personnelles et/ou confidentielles. À titre d’exemple, vous avez reçu un appel téléphonique d’une personne qui souhaite vous faire bénéficier d’une formation financée par votre Compte Personnel de Formation (CPF) ? Il peut s’agir de prospection commerciale, mais faites preuve de vigilance, car cela peut parfois déboucher sur une escroquerie ou le piratage de votre compte. 
+8. Attaques en déni de service [PRO]
+
+Cinquième  catégorie des demandes d’assistance la plus recherchée par les entreprises et associations, l’attaque en déni de service ou en déni de service distribué (DDoS pour Distributed Denial of Service en anglais) vise à rendre inaccessible un serveur par l’envoi de multiples requêtes jusqu’à le saturer, ou à exploiter une faille de cybersécurité afin de provoquer une panne ou un fonctionnement fortement dégradé du service. Durant l’attaque, le site ou service n’est plus utilisable, au moins temporairement, ou difficilement, ce qui peut entraîner des pertes directes de revenus pour les sites marchands et des pertes de productivité. Souvent visible, l’attaque porte directement atteinte à l’image et donc à la crédibilité et la réputation du propriétaire du site, car elle est perçue par les publics comme une défaillance de sécurité. 
+9. Faux ordres de virement [PRO]
+
+Sixième demande d’assistance la plus recherchée par les entreprises et associations, le faux ordre de virement (FOVI) consiste à tromper la victime pour la pousser à réaliser un virement de fonds non planifié sur un compte détenu par le cybercriminel. Les FOVI peuvent présenter des modes opératoires différents : la demande est parfois présentée comme émanant d’un dirigeant avec un caractère « urgent et confidentiel ». On parle alors « d’arnaque au Président ». Une autre variante consiste à usurper l’identité d’un fournisseur pour communiquer de nouvelles coordonnées bancaires (changement de RIB) sur lesquelles il faut effectuer un règlement. Une autre version consiste à usurper l’identité d’un salarié de l’organisation pour demander le changement des coordonnées bancaires où virer son salaire. Dans la majorité des cas, cette fraude à la cybersécurité fait suite au piratage et à l’utilisation de la messagerie de la personne ou entité usurpée.
+10. Virus 
+
+
+Autorisez le dépôt de cookies pour accéder à cette fonctionnalité.
+
+Dernier acte de cybermalveillance le plus rencontré par les publics, le virus est un programme informatique malveillant dont l’objectif est de s’implanter sur un système informatique (ordinateur, appareil mobile, serveur, etc) pour perturber son fonctionnement normal et entraver la cybersécurité de son propriétaire à son insu. Il existe différents types de virus comme le rançongiciel, le cheval de Troie, le logiciel espion… Touchant aussi bien les particuliers que les professionnels, ils peuvent s’infiltrer dans un système informatique par l’ouverture d’un message (mail, MMS, chat), d’une pièce jointe ou d’un clic sur un lien frauduleux. Il peut également s’introduire en naviguant sur un site malveillant, en s’installant dans un appareil ou un logiciel non mis à jour, par l’absence d’utilisation d’un antivirus, l’installation d’une application piratée, etc. Les symptômes d’une infection par un virus peuvent se manifester par une alerte de l’antivirus, un ralentissement ou un blocage anormal de l’appareil, des fenêtres ou des messages d’erreur qui s’affichent sans raison, la modification de logiciels ou programmes, etc.
